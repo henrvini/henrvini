@@ -54,6 +54,3 @@ I am a skilled and organized software engineer, with a particular focus on devel
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrvini&count_private=true&show_icons=true&theme=github_dark&border_color=054062" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=henrvini&theme=github_dark&border_color=054062" />
-</a>

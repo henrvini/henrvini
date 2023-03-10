@@ -1,7 +1,7 @@
 <h1 align="center">Software Engineer - Javascript</h1>
 
 <div align="justify">
-I am a skilled and organized software engineer, with a particular focus on developing dynamic web applications and systems. I possess the ability to understand clients requirements and expertly translate them into high-quality code, implementing new features or modifications to existing products with efficiency and precision. One of my strengths is maintaining a well-coordinated and meticulously documented project, ensuring that all stakeholders are kept informed and up-to-date throughout the development process. Additionally, I am an effective team player, able to collaborate with colleagues to find innovative solutions to complex problems. Overall, I am dedicated to delivering exceptional results and constantly striving to improve my skills and knowledge within the field of software engineering.
+I am a skilled and organized software engineer, with a particular focus on developing dynamic web applications and systems. I possess the ability to understand clients' requirements and expertly translate them into high-quality code, implementing new features or modifications to existing products with efficiency and precision. One of my strengths is maintaining a well-coordinated and meticulously documented project, ensuring that all stakeholders are kept informed and up-to-date throughout the development process. Additionally, I am an effective team player, able to collaborate with colleagues to find innovative solutions to complex problems. Overall, I am dedicated to delivering exceptional results and constantly striving to improve my skills and knowledge within the field of software engineering.
 </div>
 
 ## My favorite tools

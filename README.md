@@ -25,6 +25,7 @@ I am a skilled and organized software engineer, with a particular focus on devel
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-483285?logo=redux&logoColor=white" />
     <img alt="React Native logo" src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" />
     <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />

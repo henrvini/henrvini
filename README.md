@@ -24,6 +24,7 @@
 
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
+    <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-282C34?logo=socket.io&logoColor=F5F5F5" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-483285?logo=redux&logoColor=white" />
     <img alt="React Native logo" src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" />
@@ -36,6 +37,7 @@
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white"/>    
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+    <img alt="vercel" src="https://img.shields.io/badge/-Vercel-gray?logo=vercel&logoColor=white" />
 </p>
 
 ### Databases and cloud services
